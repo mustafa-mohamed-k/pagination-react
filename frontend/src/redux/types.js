@@ -1,0 +1,1 @@
+export const GET_PAGE = "GET_PAGE"; //get a page of data from the API
